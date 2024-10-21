@@ -172,6 +172,9 @@ body {
     background-color: #080b12;
     justify-content: flex-end;
     align-items: center;
+    position: fixed;
+    top: 0;
+    right: 0;
     padding-right: 10px;
 }
 
